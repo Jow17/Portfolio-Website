@@ -1,0 +1,12 @@
+ /* Divides page into 2 colors */
+ 
+ body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(
+     to right,
+      rgb(0, 0, 0) 50%,
+      rgb(216,219,222) 50%,
+      rgb(216,219,222) 100%
+    );
+  }
