@@ -2,51 +2,76 @@
  
 body{
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background: linear-gradient(
      to right,
       rgb(0, 0, 0) 50%,
       rgb(216,219,222) 50%,
-      rgb(216,219,222) 100%
-    );
+      rgb(216,219,222) 100%);
   }
 
-  .nav {
-    display: flex;
-    flex-direction: column;
-
+  .Jonathan {
+    display:flex;
+    font-size: 5rem;
+    justify-content: center;
+    margin-top: 10rem;
+    margin-right: 32rem ;   
   }
+
+
+.Intro {
+    color: white;
+    display:flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-right: 60rem ;   
+}
+
+    .nav-link {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        float: inherit;
+        font-size: 3rem;
+        margin-right: 13rem;
+    }
+
+
 
 .social-media {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    float: left;
     align-items: center;
-}
-
-.bar {
-    border-left: 6px solid rgb(255, 255, 255);
-    height: 800px;
-    position:fixed ;
-    left: 49%
-}
-.Jonathan {
-    display:flex;
-    font-size: 5rem;
-    justify-content: center;
-    margin-top: 5rem;
-    margin-right: 30rem ;
+    margin-right: 4rem;
+    float: inherit;
     
 }
 
+.white-bar {
+    border-left: 6px solid rgb(255, 255, 255);
+    height: 800px;
+    position:relative;
+    left: 49%
+    margin-top: 10rem;
+}
 
-    #Hero {
-        max-width: 40%;
-        max-height: 40%;
-        float: right;
-        margin-right: 10%;
-
+.container {
+    display: flex;
+    position: relative;
+    max-width: 100%;
+}
+.right-image {
+    max-width: 10%;
+    position: absolute;
+    top: -54rem;
+    right: 12rem;
+    max-width: 100%;
+    height: auto;
+        
     }
 
     .footer {
