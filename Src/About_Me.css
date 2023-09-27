@@ -36,6 +36,8 @@
 
 .icon:hover {
     scale: 120%;
+    border: cyan 3px solid;
+    border-radius: 10px;
 }
 
 /* Tablet */
