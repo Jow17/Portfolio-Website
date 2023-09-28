@@ -8,7 +8,10 @@
 
 /* Chages background color to black. */
 body {
-    background-color: rgb(22, 21, 21);
+    background-image: url("Assets/wp7106392-camera-lens-wallpapers.jpg");
+    background-position: center;
+    background-attachment: fixed;
+
 }
 
 /* Sets nav bar styles. */
@@ -30,10 +33,9 @@ body {
     font-size: 4rem;
 }
 
-/* Unordered list styles. */
+/* Styles unordered lists. */
 ul {
     list-style: none;
-
 }
 
 /* Styles nav bar with flex. */
@@ -42,14 +44,12 @@ ul {
     justify-content: space-evenly;
     margin-top: 1rem;
     background-color: rgb(255, 255, 255);
-
 }
 
-/*styles white bar */
+/* styles white bar */
 .white-bar {
     flex-wrap: wrap;
     justify-items: center;
-    align-items: center;
     background-color: white;
     width: 85%;
     height: 3px;
@@ -57,12 +57,9 @@ ul {
     margin-right: 9rem;
 }
 
+/* styles footer */
 .footer {
-    display: flex;
-    justify-content: right;
-    margin-top: 7rem;
-
-
+    float: right;
 }
 
 #foot {
@@ -71,9 +68,9 @@ ul {
 }
 
 /* Tablet */
-@media only screen and (max-width: 874px) {
+@media only screen and (max-width: 1224px) {
     .nav {
-        font-size: 40px;
+        font-size: 31px;
     }
     .white-bar {
         width: 80%;
@@ -84,7 +81,7 @@ ul {
 }
 
 /* Phone */
-    @media only screen and (max-width: 566px) {
+    @media only screen and (max-width: 670px) {
         .nav_bar {
             flex-wrap: wrap;
 
@@ -98,6 +95,7 @@ ul {
             margin-right: 0rem;
         }
        .footer {
+            display: flex;
             justify-content: center;
        }
         #foot {

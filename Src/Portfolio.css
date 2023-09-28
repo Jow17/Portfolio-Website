@@ -1,0 +1,44 @@
+/* Enables flex and aligns content */
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Styles image containers */
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(248, 246, 246, 0.479);
+    padding-left: 5rem;
+    padding-right: 5rem;
+    margin: 1rem;
+    border-radius: 3px;
+}
+
+article:hover {
+    border: cyan solid 5px;
+}
+
+/* Styles images */
+article img {
+    padding-top: 10px;
+    width: 100%;
+    border-radius: 10px;
+  }
+
+/* Styles headings */
+  h1 {
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+
+  /* Tablet */
+  @media only screen and (max-width: 874px) {
+    
+    h1 {
+        font-size: 2rem;
+    }
+  }

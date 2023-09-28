@@ -1,9 +1,11 @@
+/* Enables flex for main container */
 main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    
   }
+
+/* styles blog container */
   article {
     display: flex;
     flex-direction: column;
@@ -14,41 +16,44 @@ main {
     margin: 1rem;
     border-radius: 30px;
     opacity: 0.8;
+    width: 50%;
   }
-  
+
   article:hover {
     border: cyan solid 5px;
     opacity: 1;
   }
-
+/* Styles blog image */
   article img {
-    width: 50%;
+    width: 40%;
     border-radius: 10px;
-    
   }
 
-  a {
-    color: black;
-    text-decoration: none;
+  /* Styles blog title and text */
+  h1 {
+    font-size: 3rem;
+  }
+
+  p {
+    font-size: 1rem;
     font-family: Arial, Helvetica, sans-serif;
-
+    width: 100%;
   }
-
-  a:visited {
-    color: black;
-  }
-
 
 /* Tablet */
   @media only screen and (max-width: 874px) {
     article img {
         width: 90%;
     }
+
+    article {
+      width: 90%;
+      opacity: 100%;
+    }
   }
 
 /* Phone */
    @media only screen and (max-width: 566px) {
-
     article img {
         width: 80%;
     }
