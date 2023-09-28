@@ -60,6 +60,13 @@
         margin-top: 2rem;
 }
 
+/* Tablet */
+@media only screen and (max-width: 786px) {
+    .image {
+        scale: 80%;
+    }
+}
+
 /* Phone */
 @media only screen and (max-width: 526px) {
     .image {

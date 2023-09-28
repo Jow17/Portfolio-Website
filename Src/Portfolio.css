@@ -42,3 +42,12 @@ article img {
         font-size: 2rem;
     }
   }
+
+    /* Mobile */
+    @media only screen and (max-width: 574px) {
+    
+      h1 {
+          font-size: 25px;
+      }
+    }
+  
