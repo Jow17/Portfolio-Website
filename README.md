@@ -20,14 +20,14 @@ My navigation bar and links use a cyan border when hovered which stands out as i
 
 The Website features 5 pages with a navigation bar at the top of every page and a copyright text inside the footer. 
 
-** Home ** -  Features the hero image as well as a short introduction about myself. 
+**Home** -  Features the hero image as well as a short introduction about myself. 
 
-** About Me ** - Features 2 images of me displayed side by side and a long description about myself including my previous line of work, current study and hobbies. Below this is an icon that when clicked will open up a seperate document containing my resume in pdf format.
+**About Me** - Features 2 images of me displayed side by side and a long description about myself including my previous line of work, current study and hobbies. Below this is an icon that when clicked will open up a seperate document containing my resume in pdf format.
 
-** Portfolio ** - Features 4 photographs of my past work in separate div containers. 
+**Portfolio** - Features 4 photographs of my past work in separate div containers. 
 
-** Blog ** - This page lists 5 example blog posts, including images annd seperated by article containers. 
+**Blog** - This page lists 5 example blog posts, including images annd seperated by article containers. 
 
-** Contact Me ** - This page features a blurb which asks the viewer to contact me via the social media icons below.
+**Contact Me** - This page features a blurb which asks the viewer to contact me via the social media icons below.
 
 
