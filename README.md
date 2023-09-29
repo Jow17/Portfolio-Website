@@ -62,14 +62,22 @@ Contact
 
 ### Mobile ###
 Home Page
+
 ![Homepage Mobile Wireframe](docs/HomeMobile.jpg)
+
 About Me
+
 ![About Me Wireframe](docs/AboutMeMobile.jpg)
+
 Portfolio
+
 ![Portfolio Mobile Wireframe](docs/PortfolioMobile.jpg)
+
 Blog
+
 ![Blog Mobile Wireframe](docs/BlogMobile.jpg) 
 Contact 
+
 ![Contact Mobile Wireframe](docs/ContactMobile.jpg)
 
 ## Screenshots ##
