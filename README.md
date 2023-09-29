@@ -30,4 +30,33 @@ The Website features 5 pages with a navigation bar at the top of every page and 
 
 **Contact Me** - This page features a blurb which asks the viewer to contact me via the social media icons below.
 
+## Sitemap
+
+![Sitemap](docs/Sitemap.JPG)
+
+## Wireframes 
+
+### Desktop ###
+
+Home Page
+![Homepage Desktop Wireframe] 
+Portfolio
+![Portfolio Desktop Wireframe]
+Blog
+![Blog Desktop Wireframe]
+Contact 
+![Contact Desktop Wireframe]
+
+### Tablet ###
+
+![Homepage Tablet Wireframe]
+About Me
+![About Me Tablet Wireframe]
+Portfolio
+![Portfolio Tablet Wireframe]
+Blog
+![Blog Tablet Wireframe]
+Contact
+![Contact Tablet Wireframe]
+
 
