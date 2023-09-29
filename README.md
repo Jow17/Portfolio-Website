@@ -99,11 +99,32 @@ Contact
 
 ### Mobile ###
 ![Homepage Mobile Screenshot](docs/HomepageMobile.JPG)
+
 About Me
+
 ![About Me Mobile Screenshot](docs/AboutMePageMobile.JPG)
+
 Portfolio
+
 ![Portfolio Mobile Screenshot](docs/PortfolioPageMobile.JPG)
+
 Blog
+
 ![Blog Mobile Screenshot](docs/BlogPageMobile.JPG)
+
 Contact
+
 ![Contact Mobile Screenshot](docs/ContactPageMobile.JPG)
+
+## Target Audience 
+Recruiters and employers looking to employ an individual with knowledge of web languages, software development and media creation
+
+
+## Tech Stack 
+
+* Website: HTML and CSS 
+* Wireframes [Figma](https://figma.com)
+* Sitemap [Draw.Io](https://app.diagrams.net)
+* Resized Images [Image Resizer](https://imageresizer.com)
+* Deployment [Vercel](https://versel.com/)
+* Resume [Canva](https://canva.com/)
