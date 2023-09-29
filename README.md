@@ -37,26 +37,73 @@ The Website features 5 pages with a navigation bar at the top of every page and 
 ## Wireframes 
 
 ### Desktop ###
-
 Home Page
-![Homepage Desktop Wireframe] 
+![Homepage Desktop Wireframe](docs/HomeDesktop.jpg) 
+About Me
+![About Me Desktop Wireframe](docs/AboutMeDesktop.jpg)
 Portfolio
-![Portfolio Desktop Wireframe]
+![Portfolio Desktop Wireframe](docs/PortfolioDesktop.jpg)
 Blog
-![Blog Desktop Wireframe]
+![Blog Desktop Wireframe](docs/BlogDesktop.jpg)
 Contact 
-![Contact Desktop Wireframe]
+![Contact Desktop Wireframe](docs/ContactDesktop.jpg)
 
 ### Tablet ###
-
-![Homepage Tablet Wireframe]
+Home Page
+![Homepage Tablet Wireframe](docs/HomeTablet.jpg)
 About Me
-![About Me Tablet Wireframe]
+![About Me Tablet Wireframe](docs/AboutMeTablet.jpg)
 Portfolio
-![Portfolio Tablet Wireframe]
+![Portfolio Tablet Wireframe](docs/PortfolioTablet.jpg)
 Blog
-![Blog Tablet Wireframe]
+![Blog Tablet Wireframe](docs/BlogTablet.jpg)
 Contact
-![Contact Tablet Wireframe]
+![Contact Tablet Wireframe](docs/ContactTablet.jpg)
 
+### Mobile ###
+Home Page
+![Homepage Mobile Wireframe](docs/HomeMobile.jpg)
+About Me
+![About Me Wireframe](docs/AboutMeMobile.jpg)
+Portfolio
+![Portfolio Mobile Wireframe](docs/PortfolioMobile.jpg)
+Blog
+![Blog Mobile Wireframe](docs/BlogMobile.jpg) 
+Contact 
+![Contact Mobile Wireframe](docs/ContactMobile.jpg)
 
+## Screenshots ##
+
+### Desktop ### 
+Home Page
+![Homepage Desktop Screenshot](docs/HomepageDesktop.JPG)
+About Me
+![About Me Desktop Screenshot](docs/AboutPageDesktop.JPG)
+Portfolio
+![Portfolio Desktop Screenshot](docs/PortfolioPageDesktop.JPG)
+Blog
+![Blog Desktop Screenshot](docs/BlogPageDesktop.JPG)
+Contact
+![Contact Desktop Screenshot](docs/ContactPageDesktop.JPG)
+
+### Tablet ###
+![Homepage Tablet Screenshot](docs/HomepageTablet.JPG)
+About Me
+![About Me Tablet Screenshot](docs/AboutPageTablet.JPG)
+Portfolio
+![Portfolio Tablet Screenshot](docs/PortfolioPageTablet.JPG)
+Blog
+![Blog Tablet Screenshot](docs/BlogPageTablet.JPG)
+Contact
+![Contact Tablet Screenshot](docs/ContactPageTablet.JPG)
+
+### Mobile ###
+![Homepage Mobile Screenshot](docs/HomepageMobile.JPG)
+About Me
+![About Me Mobile Screenshot](docs/AboutMePageMobile.JPG)
+Portfolio
+![Portfolio Mobile Screenshot](docs/PortfolioPageMobile.JPG)
+Blog
+![Blog Mobile Screenshot](docs/BlogPageMobile.JPG)
+Contact
+![Contact Mobile Screenshot](docs/ContactPageMobile.JPG)
