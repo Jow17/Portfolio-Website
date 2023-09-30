@@ -20,6 +20,7 @@ body {
     border-radius: 10px;
     font-size: 3rem;
     font-family:Arial, Helvetica, sans-serif;
+    transition: 0.3s;
 }
 
 .nav:visited {
@@ -29,6 +30,7 @@ body {
 .nav:hover {
     background-color: rgb(0, 255, 255);
     font-size: 4rem;
+    opacity: 1;
 }
 
 /* Styles unordered lists. */
@@ -69,6 +71,7 @@ ul {
 @media only screen and (max-width: 1224px) {
     .nav {
         font-size: 31px;
+        opacity: 1;
     }
     .white-bar {
         width: 80%;

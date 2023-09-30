@@ -15,13 +15,17 @@ article {
 }
 
 /* Styles social media icons */
-.icons {
+.icon-container {
     display: flex;
     justify-content: space-evenly;
     margin-top: -20rem;
     margin: 10rem;
 }
 
+.icon {
+    transition: 0.3s;
+
+}
 .icon:hover {
     transform: scale(1.5);
     border: cyan 3px solid;
