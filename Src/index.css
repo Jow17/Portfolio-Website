@@ -14,7 +14,6 @@
 .Intro {
     display: flex;
     justify-content: center;
-
 }
 
 /* Styles intro text */
@@ -33,16 +32,14 @@ article {
 
     .Intro {
         font-size: 25px;
-    
-
 }
+}
+
 /* Phone */
 @media only screen and (max-width: 566px) {
     .Intro {
         font-size: 20px;
-
     }
-
     .hero-image {
         height: 30rem;
     }

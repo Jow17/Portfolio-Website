@@ -3,7 +3,6 @@
     border: border-box;
     margin: 0px;
     padding: 0px;
-
 }
 
 /* Chages background color to black. */
@@ -11,7 +10,6 @@ body {
     background-image: url("Assets/wp7106392-camera-lens-wallpapers.jpg");
     background-position: center;
     background-attachment: fixed;
-
 }
 
 /* Sets nav bar styles. */
@@ -75,16 +73,18 @@ ul {
     .white-bar {
         width: 80%;
         margin-left: 5rem;
-        margin-right: 0rem;
-        
+        margin-right: 0rem;   
     }
+    .nav:hover {
+        background-color: rgb(0, 255, 255);
+        font-size: 2rem;
+}
 }
 
 /* Phone */
     @media only screen and (max-width: 670px) {
         .nav_bar {
             flex-wrap: wrap;
-
         }
         .nav {
             font-size: 35px;
@@ -101,5 +101,4 @@ ul {
         #foot {
         font-size: 20px;
         }
-
     }

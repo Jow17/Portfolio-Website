@@ -22,7 +22,7 @@ article:hover {
 }
 
 /* Styles images */
-article img {
+img {
     padding-top: 10px;
     width: 100%;
     border-radius: 10px;
@@ -37,7 +37,6 @@ article img {
 
   /* Tablet */
   @media only screen and (max-width: 874px) {
-    
     h1 {
         font-size: 2rem;
     }
@@ -45,9 +44,11 @@ article img {
 
     /* Mobile */
     @media only screen and (max-width: 574px) {
-    
       h1 {
-          font-size: 25px;
+       font-size: 25px;
       }
+      img { 
+        width: 26rem;
     }
-  
+
+  }
