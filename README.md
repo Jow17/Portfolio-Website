@@ -6,13 +6,27 @@
 
 ![Github Repository](https://github.com/Xphalagas/Portfolio-Website)
 
+![Presentation]{https://www.youtube.com/watch?v=185IBgek3ts&ab_channel=Xphalagas}
+
 ## Purpose of Website
 
 The purpose of this website is to display my skills and interests to prospective employers and recruiters. It includes pictures of me as well as a showcase of my past work as well as links to my social media accounts.
 
+## Target Audience 
+Recruiters and employers looking to employ an individual with knowledge of web languages, software development and media creation
+
+## Tech Stack 
+
+* Website: HTML and CSS 
+* Wireframes [Figma](https://figma.com)
+* Sitemap [Draw.Io](https://app.diagrams.net)
+* Resized Images [Image Resizer](https://imageresizer.com)
+* Deployment [Vercel](https://versel.com/)
+* Resume [Canva](https://canva.com/)
+
 ## Functionality/Features 
 
-The website has been fully optimized for desktop, tablet and mobile using media queries and will resize accordingly when acessed on different devices. My html documents are syntactically valid and have been layed out semantically for clarity. Stlying of each element have been clearly defined in all my CSS style sheets.
+The website has been fully optimized for desktop, tablet and mobile using media queries and will resize accordingly when acessed on different devices. My html documents are syntactically valid and have been layed out semantically for clarity. Stlying of each element has been clearly defined in all my CSS style sheets.
 
 For my portfolio website I have chosen to implement a simple black and white theme. This ensures that my element and content in white contrast well against the background image which is predominantly black. 
 
@@ -36,7 +50,7 @@ The Website features 5 pages with a navigation bar at the top of every page and 
 
 ## Wireframes 
 
-### Desktop ###
+### Desktop 
 Home Page
 ![Homepage Desktop Wireframe](docs/HomeDesktop.jpg) 
 About Me
@@ -48,7 +62,7 @@ Blog
 Contact 
 ![Contact Desktop Wireframe](docs/ContactDesktop.jpg)
 
-### Tablet ###
+### Tablet 
 Home Page
 ![Homepage Tablet Wireframe](docs/HomeTablet.jpg)
 About Me
@@ -60,7 +74,7 @@ Blog
 Contact
 ![Contact Tablet Wireframe](docs/ContactTablet.jpg)
 
-### Mobile ###
+### Mobile 
 Home Page
 
 ![Homepage Mobile Wireframe](docs/HomeMobile.jpg)
@@ -81,9 +95,9 @@ Contact
 
 ![Contact Mobile Wireframe](docs/ContactMobile.jpg)
 
-## Screenshots ##
+## Screenshots 
 
-### Desktop ### 
+### Desktop 
 Home Page
 ![Homepage Desktop Screenshot](docs/HomepageDesktop.JPG)
 About Me
@@ -95,7 +109,7 @@ Blog
 Contact
 ![Contact Desktop Screenshot](docs/ContactPageDesktop.JPG)
 
-### Tablet ###
+### Tablet 
 ![Homepage Tablet Screenshot](docs/HomepageTablet.JPG)
 About Me
 ![About Me Tablet Screenshot](docs/AboutPageTablet.JPG)
@@ -112,7 +126,7 @@ Contact
 
 ![Contact Tablet Screenshot](docs/ContactPageTablet.JPG)
 
-### Mobile ###
+### Mobile 
 ![Homepage Mobile Screenshot](docs/HomepageMobile.JPG)
 
 About Me
@@ -130,16 +144,3 @@ Blog
 Contact
 
 ![Contact Mobile Screenshot](docs/ContactPageMobile.JPG)
-
-## Target Audience 
-Recruiters and employers looking to employ an individual with knowledge of web languages, software development and media creation
-
-
-## Tech Stack 
-
-* Website: HTML and CSS 
-* Wireframes [Figma](https://figma.com)
-* Sitemap [Draw.Io](https://app.diagrams.net)
-* Resized Images [Image Resizer](https://imageresizer.com)
-* Deployment [Vercel](https://versel.com/)
-* Resume [Canva](https://canva.com/)
