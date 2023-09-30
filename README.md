@@ -2,11 +2,11 @@
 
 ### Author: Jonathan Ow  
 
-![Website](https://portfolio-website-kappa-azure.vercel.app/)
+[Website](https://portfolio-website-kappa-azure.vercel.app/)
 
-![Github Repository](https://github.com/Xphalagas/Portfolio-Website)
+[Github Repository](https://github.com/Xphalagas/Portfolio-Website)
 
-![Presentation](https://www.youtube.com/watch?v=185IBgek3ts&ab_channel=Xphalagas)
+[Presentation](https://www.youtube.com/watch?v=185IBgek3ts&ab_channel=Xphalagas)
 
 ## Purpose of Website
 
