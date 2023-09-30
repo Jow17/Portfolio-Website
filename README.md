@@ -2,9 +2,9 @@
 
 ### Author: Jonathan Ow  
 
-Website: (https://portfolio-website-kappa-azure.vercel.app/)
+![Website](https://portfolio-website-kappa-azure.vercel.app/)
 
-Github Repository: (https://github.com/Xphalagas/Portfolio-Website)
+![Github Repository](https://github.com/Xphalagas/Portfolio-Website)
 
 ## Purpose of Website
 
@@ -76,6 +76,7 @@ Portfolio
 Blog
 
 ![Blog Mobile Wireframe](docs/BlogMobile.jpg) 
+
 Contact 
 
 ![Contact Mobile Wireframe](docs/ContactMobile.jpg)
@@ -98,11 +99,17 @@ Contact
 ![Homepage Tablet Screenshot](docs/HomepageTablet.JPG)
 About Me
 ![About Me Tablet Screenshot](docs/AboutPageTablet.JPG)
+
 Portfolio
+
 ![Portfolio Tablet Screenshot](docs/PortfolioPageTablet.JPG)
+
 Blog
+
 ![Blog Tablet Screenshot](docs/BlogPageTablet.JPG)
+
 Contact
+
 ![Contact Tablet Screenshot](docs/ContactPageTablet.JPG)
 
 ### Mobile ###
