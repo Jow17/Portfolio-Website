@@ -13,8 +13,7 @@
 The purpose of this website is to display my skills and interests to prospective employers and recruiters. It includes pictures of me as well as a showcase of my past work as well as links to my social media accounts.
 
 ## Target Audience 
-Recruiters and employers looking to employ an individual with knowledge of web languages, software development and media creation
-
+Recruiters and employers looking to employ an individual with knowledge of web languages, software development and media creation. They will be looking for individual with technical knowledge relating to information technology, software development/coding, programming languages and development stacks as well as high expectations of professionalism and a positive work ethic.
 ## Tech Stack 
 
 * Website: HTML and CSS 
