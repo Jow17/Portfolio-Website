@@ -6,7 +6,7 @@
 
 [Github Repository](https://github.com/Xphalagas/Portfolio-Website)
 
-[Presentation](https://www.youtube.com/watch?v=185IBgek3ts&ab_channel=Xphalagas)
+[Presentation](https://youtu.be/-gTMJiLWARA)
 
 ## Purpose of Website
 
