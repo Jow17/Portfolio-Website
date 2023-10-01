@@ -14,6 +14,7 @@ The purpose of this website is to display my skills and interests to prospective
 
 ## Target Audience 
 Recruiters and employers looking to employ an individual with knowledge of web languages, software development and media creation. They will be looking for individual with technical knowledge relating to information technology, software development/coding, programming languages and development stacks as well as high expectations of professionalism and a positive work ethic.
+
 ## Tech Stack 
 
 * Website: HTML and CSS 
@@ -22,6 +23,7 @@ Recruiters and employers looking to employ an individual with knowledge of web l
 * Resized Images [Image Resizer](https://imageresizer.com)
 * Deployment [Vercel](https://versel.com/)
 * Resume [Canva](https://canva.com/)
+* Slide Deck: Microsoft Powerpoint
 
 ## Functionality/Features 
 
