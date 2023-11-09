@@ -4,7 +4,7 @@
 
 [Website](https://portfolio-website-kappa-azure.vercel.app/)
 
-[Github Repository](https://github.com/Xphalagas/Portfolio-Website)
+[Github Repository](https://github.com/Jow17/Portfolio-Website)
 
 [Presentation](https://youtu.be/-gTMJiLWARA)
 
